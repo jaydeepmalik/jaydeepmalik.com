@@ -2,7 +2,7 @@
 layout: post
 title: You got to cool that off. And that's the double-truth
 featured: true
-author: jaydeep
+author: Jaydeep
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/20.jpg'
 ---
