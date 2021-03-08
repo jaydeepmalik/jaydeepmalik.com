@@ -3,7 +3,7 @@ title:              Jaydeep Malik - Personal Blog
 logo:               /images/main/author-jd.png
 description:        Policing, Cyber Security, Computers
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://jaydeepmalik.com/' # The base hostname & protocol for your site
+url:                'https://jaydeepmalik.com' # The base hostname & protocol for your site
 twitter:            https://twitter.com/jaydeepmalik
 # facebook:           https://www.facebook.com/
 instagram:          https://www.instagram.com/jaydeepmalik
