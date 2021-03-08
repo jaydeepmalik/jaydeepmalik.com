@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Style Guide
+title: Contact
 image: '/images/pages/9.jpg'
 ---
