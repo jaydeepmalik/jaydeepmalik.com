@@ -1,0 +1,54 @@
+# Website info
+title: Jaydeep Malik
+acronym: jd
+tagline: Any that makes sense
+email: hi@jaydeepmalik.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jaydeepmalik.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+paginate: 6
+paginate_path: /blog/:num/
+# Social users - twitter, instagram, github, gitlab, codepen profile, youtube and facebook
+social:
+  twitter: jaydeepmalik
+  github: jaydeepmalik
+  linkedin: jaydeepmalik
+  youtube_user: jaydeepmalik
+  # youtube_channel: channel
+  gitlab: jaydeepmalik
+  codepen: jaydeepmalik
+  facebook: jaydeepmalik
+  instagram: jaydeepmalik
+
+# Compress html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  startings: [html, head, body]
+
+favicon: favicon.ico # favicon name in assets/img/
+
+permalink: /:year/:month/:title/
+
+# Assets - We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+# Build settings
+env: development
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .git*
+  - .gitignore
+  - vendor
