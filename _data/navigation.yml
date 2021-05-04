@@ -4,13 +4,13 @@ blog:
   target: _self
 
 projects:
-  title: Projects
-  url: projects
+  title: Resources
+  url: resources
   target: _self
 
 # External link
 source:
   title: Source
   type: external
-  url: https://#/
+  url: https://google.com/
   target: _blank

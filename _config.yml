@@ -17,11 +17,7 @@ paginate_path: /blog/:num/
 social:
   twitter: jaydeepmalik
   github: jaydeepmalik
-  linkedin: jaydeepmalik
-  youtube_user: jaydeepmalik
-  # youtube_channel: channel
-  gitlab: jaydeepmalik
-  codepen: jaydeepmalik
+  youtube_channel: channel
   facebook: jaydeepmalik
   instagram: jaydeepmalik
 
