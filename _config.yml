@@ -6,7 +6,7 @@ email: hi@jaydeepmalik.com
 description: Jaydeep Malik AKA JD's portfolio, blog and resources. He is passionate about cyber security and fitness. 👽 👾 🤖
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jaydeepmalik.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jaydeepmalik.github.io/jaydeepmalik.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate: 6
 paginate_path: /blog/:num/
